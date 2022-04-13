@@ -95,16 +95,16 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4 {
-		color: #4b4b4c;
+		color: #007897;
 		font-weight: normal;
 	}
 
 	h1 {
-		text-transform: none;
+		text-transform: lowercase;
 	}
 
 	h2 {
-		text-transform: none;
+		text-transform: lowercase;
 		font-size: 1.6em;
 		letter-spacing: -1px;
 		margin-bottom: 1em;
@@ -150,7 +150,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #CCCCCC;
+		color: #5d93a2;
 		text-decoration: underline;
 	}
 
@@ -1492,7 +1492,7 @@ input, select, textarea {
 		padding: 15px 25px 15px 25px;
 		background-color: #007b9d;
 		border-radius: 10px;
-		text-transform: none;
+		text-transform: lowercase;
 		text-decoration: none;
 		color: #fff;
 		font-size: 1.2em;
@@ -1559,7 +1559,7 @@ input, select, textarea {
 			right: 40px;
 			top: 1px;
 			line-height: 84px;
-			text-transform: none;
+			text-transform: lowercase;
 			font-size: 1.3em;
 			letter-spacing: -1px;
 		}
@@ -1623,7 +1623,7 @@ input, select, textarea {
 			font-size: 1.6em;
 			color: #fff;
 			letter-spacing: -1px;
-			text-transform: none;
+			text-transform: lowercase;
 			opacity: 0.8;
 		}
 
